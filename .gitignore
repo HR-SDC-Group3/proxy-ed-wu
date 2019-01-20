@@ -7,3 +7,5 @@ server/db/config.js
 
 # Only apps should have lockfiles
 yarn.lock
+
+newrelic.js
